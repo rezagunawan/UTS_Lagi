@@ -31,7 +31,7 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/*** uts MOBPRO REZA GUNAWAN
+/*** uts MOBPRO REZA GUNAWAN 1147050138
  * Main Activity for the Material Me app, a mock sports news application with poor design choices
  */
 public class MainActivity extends AppCompatActivity {
