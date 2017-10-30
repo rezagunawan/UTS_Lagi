@@ -1,0 +1,65 @@
+<!--
+  Copyright 2016 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Menu Cafe</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="gambar_recycle">Gambar Recycle</string>
+    <string name="lipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="harga">Rp. 10.000</string>
+
+    <array name="sports_images">
+        <item>@drawable/batagor</item>
+        <item>@drawable/black_salad</item>
+        <item>@drawable/cappuchino</item>
+        <item>@drawable/cheesecake</item>
+        <item>@drawable/cireng</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/kopi_hitam</item>
+        <item>@drawable/mie_goreng</item>
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/sparkling_tea</item>
+    </array>
+
+    <string-array name="sports_titles">
+        <item>Batagor</item>
+        <item>Black Salad</item>
+        <item>Cappuchino</item>
+        <item>cheescake</item>
+        <item>Cireng</item>
+        <item>DOnut</item>
+        <item>Kopi Hitam</item>
+        <item>Mie Goreng</item>
+        <item>Nasi Goreng 1</item>
+        <item>Sprakling tea</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Rp. 11.000</item>
+        <item>Rp. 12.000</item>
+        <item>Rp. 13.000</item>
+        <item>Rp. 14.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 16.000</item>
+        <item>Rp. 17.000</item>
+        <item>Rp. 18.000</item>
+        <item>Rp. 19.000</item>
+        <item>Rp. 12.200</item>
+        <item>Rp. 14.400</item>
+    </string-array>
+
+</resources>

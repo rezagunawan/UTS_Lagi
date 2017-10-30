@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\accb04df9a6c9a645bda5769133befc7a1ac4673\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a130fc438f8cdd8d6eb5086793be87563d9f752b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_088f4864a501a9ef73005f1c6b3dd57679ca4733\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\UTS Prak Mobpro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8495fee9fe61c92bcf73dcee97c8bed555a4a61d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\b939c69d52e99232bf5a7fae23dabc64b186cb3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8fd3397b4e498ddb58e37320c50101bf4b30697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\b13e107f3f3df635f93f4917273b5a25a9b7da4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4dba6976b701a85194492f6e7f3ebe2d5f7480d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\UTS Prak Mobpro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a498f118019790c320f6f95e84b6dc6f0d59f44">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_741a01ca10e797566c75ed8667c0ccaf053b6b59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\64d9edf85ae47b6ae8b6fca6815acef355eee762\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e74b7d8cf60be9a4624e5cd606370ddaf3b2213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_ea9b674db9e9984cd3078ab0f830b52778db9a3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\d372cfeff06cc2c1ac8c91a9c53f432a87e12de7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d08a37cedb2bd83ab463520fc1131387bfc6dfbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\15dbb355f2b89d37dbe38c2d16160c8ee9e6199d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9d27aff8455fdfdac6445f9a6b61375f08a5125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\5efcf92e700ab3d9b705763be9b5b0f6b6a11cd8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_396fa24e9fdb19c3c277f898fbd5d5ecb8b5e321\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\ddd08fdfdf5b605660737266ef29335c826b85b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed7536afef859f3b514ff155b216aaaecb4f1ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\bb41509e438c9e90907d4c1b51dd6eff7c8f810a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6d33566f76d22b48e29777ecf55ad2e967c9a0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\60f80a27d54f8d55e334b944889f6eb0a1e45314\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65f9d72aac6f582450168a5cf0e99c27f86ea691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\c064acb2f214fdf41c86497fda09a0e3206b8e9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_118f7cca31f66a2052997f17e2ecad7969c50d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\2994763a7ff68919928f3be41566dca8f667fd78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_749b4040b4308cff4a639504bb7b8b994f174a61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\c91f4ef3718876fc05db549518997b6dccada32d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ac4472b0e20554a465b27e25525bf095b0af202\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL 11\.android\build-cache\1f4dc8f86e1c0f5f0668f3fbdfd9b8cfda9f5f54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="G:\UTS Prak Mobpro\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abe6d4f1b0ece022856f95eaa9b2ecc8c8fa65cd\classes.dex" />
+    </item>
+
+</items>
